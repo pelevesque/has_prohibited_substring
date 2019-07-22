@@ -1,6 +1,6 @@
 {
   "name": "@pelevesque/has_prohibited_substring",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Checks if a string has a prohibited substring.",
   "main": "index.js",
   "engines": {
